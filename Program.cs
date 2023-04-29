@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine ("Итоговая работа");
+﻿Console.WriteLine ("Итоговая работа");
 
 string[] array1 = new string[] {"1234", "1567", "2", "-2", "computer science"};
 string[] array2 = new string[array1.Length];
